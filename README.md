@@ -16,10 +16,10 @@ Projeto 5
 
 ## Descrição
 
-## Descrição
-
 <p align="center">
-    <img src="./imagens/personagem_ticket.png" alt="Personagem Ticket do Projeto" border="0">
+    <img src="https://imgur.com/a/X8Rs3UT" alt="Personagem Ticket do Projeto" border="0">
+</p>
+Game by <a href="">Arthur Carvalho Chagas, Luccas Covre, Álvaro Palazzin </a> <a rel="license" href="">FECAP LIBERDADE 1ADS</a> <a href="">moodle</a>
 </p>
 
 

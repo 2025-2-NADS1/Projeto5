@@ -17,7 +17,7 @@ Projeto 5
 ## Descrição
 
 <p align="center">
-    <img src="https://i.imgur.com/XYZ123W.jpg" alt="Logo do Projeto" border="0">
+    <img src="https://imgur.com/a/X8Rs3UT.png" alt="Logo do Projeto" border="0">
 </p>
 Game by <a href="">Arthur Carvalho Chagas, Luccas Covre, Álvaro Palazzin </a> <a rel="license" href="">FECAP LIBERDADE 1ADS</a> <a href="">moodle</a>
 </p>

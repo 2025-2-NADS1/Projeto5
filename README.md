@@ -18,7 +18,7 @@ Projeto 5
 
 
 <p align="center">
-    <img src="https://i.imgur.com/J3qR0jP.jpg" alt="Personagem Ticket do Projeto PicPetzzy" border="0">
+    <img src="https://i.imgur.com/bvftGpJ.jpeg" alt="Personagem Ticket do Projeto PicPetzzy" border="0">
 </p>
 
 PicPetzzy é um projeto que transforma a busca por cupons de desconto em uma experiência divertida e interativa. O usuário cuida de um pet digital, completando tarefas e tomando decisões dentro do jogo para manter o pet saudável e feliz.

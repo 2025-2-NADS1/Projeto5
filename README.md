@@ -18,7 +18,7 @@ Projeto 5
 
 
 <p align="center">
-    <img src="https://http://i.imgur.com/DGOywKT.jpeg" alt="Personagem Ticket do Projeto PicPetzzy" border="0">
+    <img src="https://i.imgur.com/DGOywKT.jpeg" alt="Personagem Ticket do Projeto PicPetzzy" border="0">
 </p>
   Game by <a href="">Arthur Carvalho Chagas, Luccas Covre, Álvaro Palazzin <a rel="license" href="">FECAP LIBERDADE 1ADS</a> <a href="">moodle</a>
 </p>

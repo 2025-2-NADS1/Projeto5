@@ -12,7 +12,7 @@ Projeto 5
 
 ## Integrantes: <a href="https://www.linkedin.com/in/arthur-carvalho-chagas-1a7537382/">Arthur Carvalho Chagas</a>, <a href="https://www.linkedin.com/in/luccas-covre/">Luccas Covre</a>, <a href="http://www.linkedin.com/in/álvaro-palazzin-053784271/">Álvaro Palazzin</a>
 
-## Professores Orientadores: >Victor Rossetti</a>, >Ronaldo Savino</a>, >Lucy Tabuti</a> ,>Aimar Martins</a>, >Renata Muniz</a>, >Ronaldo Araujo</a>
+## Professores Orientadores: Victor Rossetti</a>, Ronaldo Savino</a>, Lucy Tabuti</a> , Aimar Martins</a>, Renata Muniz</a>, Ronaldo Araujo</a>
 
 ## Descrição
 

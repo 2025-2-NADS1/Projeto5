@@ -25,7 +25,7 @@ Projeto 5
 
 
 
-Petzzy é um projeto que transforma a busca por cupons de desconto em uma experiência divertida e interativa. O usuário cuida de um pet digital, completando tarefas e tomando decisões dentro do jogo para manter o pet saudável e feliz.
+PicPetzzy é um projeto que transforma a busca por cupons de desconto em uma experiência divertida e interativa. O usuário cuida de um pet digital, completando tarefas e tomando decisões dentro do jogo para manter o pet saudável e feliz.
 
 Ao realizar ações corretas, o jogador recebe dicas e recompensas de cupons de desconto, tornando a caça por promoções na PicMoney mais envolvente e estratégica.
 

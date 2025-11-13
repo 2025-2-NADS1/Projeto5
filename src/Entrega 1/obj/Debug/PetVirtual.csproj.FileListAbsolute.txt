@@ -1,0 +1,11 @@
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\bin\Debug\pet_apenas.png
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\bin\Debug\PetVirtual.exe.config
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\bin\Debug\PetVirtual.exe
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\bin\Debug\PetVirtual.pdb
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.csproj.AssemblyReference.cache
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.Form1.resources
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.Properties.Resources.resources
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.csproj.GenerateResource.cache
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.csproj.CoreCompileInputs.cache
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.exe
+C:\Users\ericd\source\repos\PetVirtual\PetVirtual\obj\Debug\PetVirtual.pdb

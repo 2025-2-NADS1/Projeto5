@@ -20,7 +20,8 @@ Projeto 5
   Game by <a href="">Arthur Carvalho Chagas, Luccas Covre, Álvaro Palazzin <a rel="license" href="">FECAP LIBERDADE 1ADS</a> <a href="">moodle</a>
 </p>
 
-
+<p align="center">
+    <img src="https://i.imgur.com/DGOywKT.jpeg" alt="Personagem Ticket do Projeto PicPetzzy" border="0">
 
 PicPetzzy é um projeto que transforma a busca por cupons de desconto em uma experiência divertida e interativa. O usuário cuida de um pet digital, completando tarefas e tomando decisões dentro do jogo para manter o pet saudável e feliz.
 
